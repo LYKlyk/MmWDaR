@@ -3,7 +3,7 @@
 We provide two methods to download this dataset:
 > 百度网盘:
 
-> Google Drive: https://drive.google.com/drive/folders/11UsB0-RGaLOQzJoEFq8vFhFO96cML3SC?usp=drive_link
+> Google Drive: https://drive.google.com/file/d/1-ruit4dmuEUA5r6plU7JZSRucF851fgA/view?usp=sharing
 
 **If you would like to use this dataset, please send an email to xjtu_liyangke@139.com.**
 
