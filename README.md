@@ -1,7 +1,7 @@
 # Multi-modal Deep Learning Networks for RGB-D Pavement Waste Detection and Recognition
 ## Dataset
 We provide two methods to download this dataset:
-> 百度网盘:
+> 百度网盘: https://pan.baidu.com/s/10fgMfAR_GxFUOkoUVnYWHw?pwd=g3vr 
 
 > Google Drive: https://drive.google.com/file/d/1-ruit4dmuEUA5r6plU7JZSRucF851fgA/view?usp=sharing
 
